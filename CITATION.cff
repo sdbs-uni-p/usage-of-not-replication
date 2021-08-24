@@ -1,0 +1,33 @@
+# YAML 1.2
+---
+abstract: "Replication package for the empirical study on the usage of the operator \"not\" in JSON Schema."
+authors: 
+  -
+    affiliation: "Sorbonne Université"
+    family-names: Baazizi
+    given-names: "Mohamed Amine"
+  -
+    affiliation: "Université Paris-Dauphine"
+    family-names: Colazzo
+    given-names: Dario
+  -
+    affiliation: "Università di Pisa"
+    family-names: Ghelli
+    given-names: Giorgio
+  -
+    affiliation: "Università di Pisa"
+    family-names: Sartiani
+    given-names: Carlo
+  -
+    affiliation: "Universität Passau"
+    family-names: Scherzinger
+    given-names: Stefanie
+cff-version: "1.1.0"
+doi: "10.5281/zenodo.5141378"
+license: "CC-BY-4.0"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/sdbs-uni-p/usage-of-not-replication"
+title: "\"Usage of Not\" Replication Package "
+date-released: 2021-08-24
+version: "1.0"
+...
